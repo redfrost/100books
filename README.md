@@ -3,7 +3,7 @@
 > To-do 리스트로 만들어 사용하고 싶으신 분들은 다음 링크의 내용을 복사하여 Issue를 만들어 사용하시기 바랍니다. 
 https://raw.githubusercontent.com/redfrost/100books/master/README.md
 
-***
+
 
 ## 가디언 선정 역대 최고의 도서 100권
 
